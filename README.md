@@ -7,7 +7,7 @@ Tutorial I completed to get used to C++ programming language and to continue my 
 **Setup**
 - IDE: http://codeblocks.org/downloads/26#windows - Select "codeblocks-xx.xxmingw-setup.exe" Download from: Sourceforge.net
 
-Creating New Project
+**Creating New Project**
 - Open CodeBlocks
 - Hit "Create new a project"
 - Bare Basic Project: Hit "Console application" -> "Next" -> Choose "C++" and hit "Next" -> Enter Project Name (here: Cpp_Tutorial) and choose the project folder, hit "Next" -> Hit "Finish"
