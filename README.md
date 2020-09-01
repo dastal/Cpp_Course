@@ -30,3 +30,20 @@ int main()
 **Topics**: Files
 
 For further explanation have a look at the commits.
+
+1. Hello World: hello_world.c
+2. Drawing a Shape: drawing_simple_triangle.c
+3. Variables: variables.c
+4. Data Types: data_types.c
+5. Working with Strings: working_with_strings.c
+6. Working with Numbers: working_with_numbers.c
+7. Getting User Input: getting_user_input.c
+8. Building a Calculator: building_basic_calculator.c
+9. Building a mad Libs Game: mad_libs.c
+10. Arrays: arrays.c
+11. Functions: functions.c
+12. Return Statement: return_statement.c
+13. If Statements: if_statements_I.c & if_statements_II.c
+14. Building a better Calculator: better_calculator.c
+15. Switch Statements: switch_statements.c
+16. While Loops: while_loops.c
