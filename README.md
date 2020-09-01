@@ -26,3 +26,7 @@ int main()
 }
 ```
 - To continue, click the icon "Build and Run" in the Toolbar (a green triangle and a gray gear). This should open a window which says "Hello World"
+
+**Topics**: Files
+
+For further explanation have a look at the commits.
