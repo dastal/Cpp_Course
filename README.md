@@ -47,3 +47,21 @@ For further explanation have a look at the commits.
 14. Building a better Calculator: better_calculator.c
 15. Switch Statements: switch_statements.c
 16. While Loops: while_loops.c
+17. Building a Guessing Game: guessing_game.c
+18. For Loops: for_loops.c
+19. Exponent Function: exponent_fucntion.c
+20. 2d Arrays and Nested Loops: 2d_arrays_nested_loops.c
+21. Commits: commits.c
+22. Pointers: pointers.c
+23. Classes and Objects: classes_objects.c
+24. Constructor Functions: constructor_functions.c
+25. Object Functions: object_functions.c
+26. Getters and Setters: getters_setters.c
+27. Inheritance: inheritance.c
+
+**Conclusion**
+- IDE: The orthography function is really nice
+- IDE: Errors don't have a message, so when an error occur it could take a while under circumstances.
+- Switch statements are really powerful and save alot of time.
+- The print statements are a lot more powerful than in C.
+- The difference between char and string is very annoying.
