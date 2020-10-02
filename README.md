@@ -4,10 +4,10 @@ Introductory C++ Course (Tutorial)
 
 Tutorial I completed to get used to C++ programming language and to continue my overview over the most important programming languages. Used tutorial: https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=117s
 
-**Setup**
+## Setup
 - IDE: http://codeblocks.org/downloads/26#windows - Select "codeblocks-xx.xxmingw-setup.exe" Download from: Sourceforge.net
 
-**Creating New Project**
+## Creating New Project
 - Open CodeBlocks
 - Hit "Create new a project"
 - Bare Basic Project: Hit "Console application" -> "Next" -> Choose "C++" and hit "Next" -> Enter Project Name (here: Cpp_Tutorial) and choose the project folder, hit "Next" -> Hit "Finish"
@@ -27,7 +27,7 @@ int main()
 ```
 - To continue, click the icon "Build and Run" in the Toolbar (a green triangle and a gray gear). This should open a window which says "Hello World"
 
-**Topics**: Files
+# Topics
 
 For further explanation have a look at the commits.
 
@@ -59,7 +59,7 @@ For further explanation have a look at the commits.
 26. Getters and Setters: getters_setters.c
 27. Inheritance: inheritance.c
 
-**Conclusion**
+## Conclusion
 - IDE: The orthography function is really nice
 - IDE: Errors don't have a message, so when an error occur it could take a while under circumstances.
 - Switch statements are really powerful and save alot of time.
